@@ -1,6 +1,6 @@
 {
   "name": "sibilax-devcamp-js-footer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module allows for a dynamic footer to be gerated for JS applications with and updated year and name.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/Sibilax/sibilax-devcamp-js-footer#readme",
   "dependencies": {
     "moment": "^2.30.1"
-  }
+  },
+  "devDependencies": {}
 }

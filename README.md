@@ -1,6 +1,6 @@
 ## Sibilax Devamp JS Footer
 
-> T**his should be used in the following manner**:
+> **This should be used in the following manner**:
 
 Install with the command:
 
